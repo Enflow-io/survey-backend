@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Карина",
+    "lastName": "Карповцева",
+    "email": "k.karpovtseva@rnbconsulting.ru",
+    "role": "Руководитель"
+  },
+  {
+    "name": "Анастасия",
+    "lastName": "Стеняева",
+    "email": "a.steniaeva@rnbconsulting.ru",
+    "role": "Руководитель"
+  },
+  {
+    "name": "Виктория",
+    "lastName": "Задорина",
+    "email": "v.zadorina@rnbconsulting.ru",
+    "role": "Сотрудник"
+  },
+  {
+    "name": "Прасковья",
+    "lastName": "Зарослова",
+    "email": "p.zaroslova@rnbconsulting.ru",
+    "role": "Сотрудник"
+  },
+  {
+    "name": "Роман",
+    "lastName": "Финогеев",
+    "email": "r.finogeev@rnbconsulting.ru",
+    "role": "Сотрудник"
+  },
+  {
+    "name": "Михаил",
+    "lastName": "Иоаннесянц",
+    "email": "m.ioannesyants@rnbconsulting.ru",
+    "role": "Сотрудник"
+  },
+  {
+    "name": "Софья",
+    "lastName": "Полторацкая",
+    "email": "s.poltoratskaya@rnbconsulting.ru",
+    "role": "Сотрудник"
+  },
+  {
+    "name": "Дмитрий",
+    "lastName": "Богачев",
+    "email": "d.bogachev@rnbconsulting.ru",
+    "role": "Сотрудник"
+  },
+  {
+    "name": "Сергей",
+    "lastName": "Богачев",
+    "email": "s.bogachev@rnbconsulting.ru",
+    "role": "Сотрудник"
+  },
+  {
+    "name": "Екатерина",
+    "lastName": "Пронина",
+    "email": "e.pronina@rnbconsulting.ru",
+    "role": "Сотрудник"
+  },
+  {
+    "name": "Мария",
+    "lastName": "Чигиринова",
+    "email": "m.chigirinova@rnbconsulting.ru",
+    "role": "Сотрудник"
+  },
+  {
+    "name": "Юлия",
+    "lastName": "Николаева",
+    "email": "y.nikolaeva@rnbconsulting.ru",
+    "role": "Сотрудник"
+  },
+  {
+    "name": "Иван",
+    "lastName": "Чигиринов",
+    "email": "i.chigirinov@rnbconsulting.ru",
+    "role": "Сотрудник"
+  },
+  {
+    "name": "Юлия",
+    "lastName": "Стерлягова",
+    "email": "j.sterlyagova@rnbconsulting.ru",
+    "role": "Сотрудник"
+  },
+  {
+    "name": "Николай",
+    "lastName": "Чистяков",
+    "email": "n.chistiakov@rnbconsulting.ru",
+    "role": "Менджер"
+  },
+  {
+    "name": "Николай",
+    "lastName": "Чистяков",
+    "email": "nikolay.randb@gmail.com",
+    "role": "Администратор"
+  },
+  {
+    "name": "Александр",
+    "lastName": "Баженов",
+    "email": "relightgroup.msc@yandex.ru",
+    "role": "Администратор"
+  }
+]

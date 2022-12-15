@@ -1,10 +1,12 @@
-import { Controller, Get, Post, Body, Patch, Param, Delete, Query } from '@nestjs/common';
+import { Controller, Get, Post, Body, Patch, Param, Delete, Query, UseGuards } from '@nestjs/common';
+import JwtAuthenticationGuard from 'src/auth/jwt-authentication.guard';
 import { AnswerService } from './answer.service';
 import { CreateAnswerDto } from './dto/create-answer.dto';
 import { UpdateAnswerDto } from './dto/update-answer.dto';
 import { Answer } from './entities/answer.entity';
 
 @Controller('answer')
+@UseGuards(JwtAuthenticationGuard)
 export class AnswerController {
   constructor(private readonly answerService: AnswerService) {}
 
